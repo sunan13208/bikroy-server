@@ -1,0 +1,109 @@
+[
+    {
+            "catID":"33",
+            "img":"https://eoffelde.sirv.com/img/iphone%2010.jpg",
+            "title":"Iphone 10",
+            "location":"Octroi,Rajshahi",
+            "price":"95",
+            "originalPrice":"$155",
+            "sellerName":"Wick"
+    },
+    {
+            "catID":"33",
+            "img":"https://eoffelde.sirv.com/img/iphone%206.jpg",
+            "title":"Iphone 6",
+            "location":"kazla,Rajshahi",
+            "price":"$35",
+            "originalPrice":"$65",
+            "sellerName":"Wick"
+    },
+    {
+            "catID":"33",
+            "img":"https://eoffelde.sirv.com/img/oneplus-10.jpg",
+            "title":"One Plus 10",
+            "location":"Barguna",
+            "price":"$75",
+            "originalPrice":"$125",
+            "sellerName":"Imran"
+    },
+    {
+            "catID":"33",
+            "img":"https://eoffelde.sirv.com/img/sony.jpg",
+            "title":"Sony xperia",
+            "location":"Kalabagan,Dhaka",
+            "price":"$35",
+            "originalPrice":"$65",
+            "sellerName":"Sunan"
+    },
+    {
+            "catID":"33",
+            "img":"https://eoffelde.sirv.com/img/Sumsung%20S22.jpg",
+            "title":"Sumsung S22",
+            "location":"western para,bhola",
+            "price":"$35",
+            "originalPrice":"$65",
+            "sellerName":"Turjo"
+    },
+    {
+            "catID":"22",
+            "img":"https://eoffelde.sirv.com/img/sumsung%20tab.jpg",
+            "title":"Sumsung Tab",
+            "location":"western para,bhola",
+            "price":"$35",
+            "originalPrice":"$65",
+            "sellerName":"Wick"
+    },
+    {
+            "catID":"22",
+            "img":"https://eoffelde.sirv.com/img/Ipad.jpg",
+            "title":"I Pad",
+            "location":"Elephant Road,Dhaka",
+            "price":"$86",
+            "originalPrice":"$155",
+            "sellerName":"Sabik"
+    },
+    {
+            "catID":"22",
+            "img":"https://eoffelde.sirv.com/img/Tab%20S7.jpg",
+            "title":"Tab S7",
+            "location":"kazla,Rajshahi",
+            "price":"$15",
+            "originalPrice":"$65",
+            "sellerName":"Wick"
+    },
+    {
+            "catID":"11",
+            "img":"https://eoffelde.sirv.com/img/lenovo.jpg",
+            "title":"Lenovo",
+            "location":"kazla,Rajshahi",
+            "price":"$15",
+            "originalPrice":"$65",
+            "sellerName":"Wick"
+    },
+    {
+            "catID":"11",
+            "img":"https://eoffelde.sirv.com/img/hp.jpg",
+            "title":"Hp s13Yu",
+            "location":"Elephant Road,Dhaka",
+            "price":"$35",
+            "originalPrice":"$95",
+            "sellerName":"Sunan"
+    },
+    {
+            "catID":"11",
+            "img":"https://eoffelde.sirv.com/img/Mac%20air%202.jpg",
+            "title":"Mac Air 2",
+            "location":"kazla,Rajshahi",
+            "price":"$100",
+            "originalPrice":"$220",
+            "sellerName":"Prince"
+    }
+]
+
+
+
+
+
+
+
+
